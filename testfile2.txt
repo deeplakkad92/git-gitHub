@@ -1,2 +1,0 @@
-Hello world!!
-I know the first statement whenever we learn any new programming language is the above statement, but didn't knew that it will be same for the git as well lol
